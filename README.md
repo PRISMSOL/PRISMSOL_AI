@@ -8,6 +8,9 @@ PRISM AI Agent provides a stable environment for deploying AI agents at scale, b
 
 Watch a quick [demo](https://app.arcade.software/share/4Bv0R5Bt6JZ4TbQWZL3n) on how to deploy using Github Codespaces!
 
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/215e9f1f-5df5-4b88-9e11-17e84c51deb7" />
+
+
 ## Key Features
 - Simplified ElizaOS setup
 - Isolated structure to allow custom plugins/agents
@@ -69,7 +72,7 @@ Once all containers show green status, access the Agent UI at http://localhost:3
 
 ## Support & Community
 
-Join our [Discord community](https://trustless.community) for support and discussions!
+Join our ([https://x.com/PRISMSOL_AI]) for support and discussions!
 
 ---
 
