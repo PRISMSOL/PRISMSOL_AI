@@ -59,7 +59,8 @@ OPENROUTER_API_KEY=sk-or-....
 2. Access the environment:
    - Local: https://localhost:10350/
    - Codespaces: Use the "Ports" selection
-   ![port selection](./docs/images/codespace-port-selection.png)
+  ![image](https://github.com/user-attachments/assets/cc900472-9597-4ee4-ba96-0007e533ed71)
+
 
 > **Known Issue**: On first startup, `@elizaos/adapter-postgres` may attempt to create an existing `vector` plugin. Simply restart the `prism-agent` resource using the refresh icon.
 
@@ -72,4 +73,4 @@ Join our [Discord community](https://trustless.community) for support and discus
 
 ---
 
-Made with ❤️ by [@wedtm](https://x.com/wedtm) and the [Trustless Engineering Co.](https://trustless.engineering/) team.
+Made with ❤️ by [@PRISMSOL_AI]([https://x.com/PRISMSOL_AI]) .
