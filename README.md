@@ -36,7 +36,7 @@ Supports Linux/MacOS/Windows with the following requirements:
 * [CtlPtl](https://github.com/tilt-dev/ctlptl) - Local Kubernetes Cluster Controller
 * [Tilt](https://docs.tilt.dev/install.html) - Local Kubernetes Development Toolkit
 * [Helm](https://helm.sh/docs/intro/install/) - Kubernetes Package Manager
-* [KIND](https://kind.sigs.k8s.io/) - Kubernetes-in-Docker (only needed if not using Docker Desktop)
+* [KIND](https://kind.sigs.k8s.io/) - Kubernetes-in-Docker (only needed if not using DockerDesktop)
 
 
 ## Getting Started
