@@ -13,7 +13,7 @@ Watch a quick [demo](https://app.arcade.software/share/4Bv0R5Bt6JZ4TbQWZL3n) on 
 
 ## Key Features
 - Simplified ElizaOS setup
-- Isolated structure to allow custom plugins/agents
+- Isolated Structure to allow custom plugins/agents
 - Helm chart for deployment into any kubernetes environment
 - Dev Container support
 
