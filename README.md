@@ -77,4 +77,4 @@ Join our (https://x.com/PRISMVX_) for support and discussions!
 
 ---
 
-Made with ❤️ by [@PRISMVX_]([https://x.com/PRISMVX_]) .
+Made with ❤️ by [@PRISMVX_]([x.com/PRISMVX_]) .
