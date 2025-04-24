@@ -19,7 +19,7 @@ Watch a quick [demo](https://app.arcade.software/share/4Bv0R5Bt6JZ4TbQWZL3n) on 
 
 ## Prerequisites
 
-> **Note**: The default/recommended setup requires at least 16GB RAM.
+> **Note**: The default/ recommended setup requires at least 16GB RAM.
 
 ### Development Environment Options
 
