@@ -1,5 +1,5 @@
 # PRISM AI Agent
-https://x.com/PRISMVX_ Join our 
+x.com/PRISMVX_ Join our 
 An opinionated, batteries-included, ElizaOS distribution designed for ease of development and secure, scalable deployments
 
 ## Overview
