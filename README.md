@@ -73,7 +73,7 @@ Once all containers show green status, access the Agent UI at http://localhost:3
 
 ## Support & Community
 
-Join our (https://x.com/PRISMSOL_AI) for support and discussions!
+Join our (https://x.com/PRISMVX_) for support and discussions!
 
 ---
 
